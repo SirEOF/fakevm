@@ -1,6 +1,7 @@
 fakevm
 ======
-POC kernel driver to make a normal Windows desktop show up as a VM.
+POC kernel driver to make a normal Windows desktop show up as a VM. More details in my blog entry:
+[Make your desktop a fake Virtual Machine to defend against malware](http://theevilbit.blogspot.com/2015/10/make-your-desktop-fake-virtual-machine.html)
 
 usage of the controller:
 ========================
